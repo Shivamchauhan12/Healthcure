@@ -1,0 +1,10 @@
+Flask
+Werkzeug
+opencv-python
+pickle-mixin
+imutils
+scikit-learn==1.2.2
+tensorflow==2.15.0
+joblib
+numpy
+xgboost
